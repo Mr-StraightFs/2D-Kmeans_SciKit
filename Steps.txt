@@ -1,0 +1,11 @@
+2-D K-means Step by Step
+
+Step1 : Downldoad and Import libraries
+Step2 : Import , clean and prepare Data for the analysis
+         - Load the database
+         - Treating Missing Variales
+         - Descriptive Analysis
+         - Scaling (if necessary)
+
+Step3 : Sampling the test and training subsets
+Step4 :
