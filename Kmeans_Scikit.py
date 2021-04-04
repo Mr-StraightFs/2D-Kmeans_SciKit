@@ -18,7 +18,7 @@ from sklearn.preprocessing import scale
 # For CSV
 # data = pd.read_csv('Path where the Excel file is stored\File name.xlsx' , delimiter=';')
 
-# for the purpose of this analysis I will use the famous Scikit-inbuilt Database dubbed : Breast Cancer Data
+# for the purpose of this analysis I will use the well known Scikit-inbuilt Database dubbed : Breast Cancer Data
 
 from sklearn.datasets import load_breast_cancer
 cancer=load_breast_cancer()
@@ -37,6 +37,7 @@ print(y)
 
 # Step3 : Sampling the test and training subsets
 X_train , X_test , y_train , y_test = train_test_split(X,y,test_size=0.2)
+
 
 
 
