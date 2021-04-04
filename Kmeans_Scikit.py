@@ -9,6 +9,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import scale
 
 #Step2 : Import , Preprocess , clean and prepare Data for Analysis
+
 # Data Importation
 # In this part , Uncomment the right line of code in line the type of Data that you want to import
 # I included the most common file types , namely : XSL and CSV Files
